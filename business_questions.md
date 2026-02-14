@@ -5,7 +5,7 @@ This document outlines the core business questions and analytical objectives for
 > [!Note]
 > **Italicized Questions** represent proactive strategic additions to the original business request to provide a more holistic view of performance.
 
----
+
 
 ### 🌎 Region & Store Related
 
@@ -13,7 +13,7 @@ This document outlines the core business questions and analytical objectives for
   2. **Returns by Geography:** *How does the return rate vary by region?*
   3. **Efficiency Gaps:** Which store has the lowest revenue but the highest number of sales?
 
----
+
 
 ### 📦 Category & Product Related
 
@@ -22,7 +22,7 @@ This document outlines the core business questions and analytical objectives for
   6. **Pricing Analysis:** What is the average unit price per product category?
   7. **Volume Leaders:** Identify the top 5 products with the highest total sales by quantity.
 
----
+
 
 ### 👥 Customer Behavior Related
 
@@ -30,13 +30,13 @@ This document outlines the core business questions and analytical objectives for
   9. **Profitability:** *Who are the most profitable customers?*
   10. **Loyalty Metrics:** *What is the customer retention rate across regions?*
 
----
+
 
 ### 💳 Payment Method Related
 
   11. **Transaction Impact:** How do different payment methods impact total revenue?
 
----
+
 
 ### 📈 Trend & Seasonality
 
