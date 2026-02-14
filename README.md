@@ -127,7 +127,8 @@ Ad-hoc_Business_Analytics/
 │   └── measures.md                       # Dynamic aggregation formulas (e.g., Total Revenue, MoM Growth)
 │
 ├── LICENSE                               # Legal terms for code and data usage
-└── README.md                             # Project background, summary and key insights
+├── README.md                             # Project background, summary and key insights
+└── business_questions.md                 # The 15 strategic business questions for Ad-hoc Analysis
 ``` 
 
 ---
