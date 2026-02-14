@@ -1,4 +1,4 @@
-# 📊 The Business Analysis Questions for Ad-hoc Analysis:
+# 📊 The Strategic Business Questions for Ad-hoc Analysis:
 
 This document outlines the core business questions and analytical objectives for evaluating regional performance, product categories, customer behavior, and seasonal trends.
 
