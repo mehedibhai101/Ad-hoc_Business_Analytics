@@ -11,7 +11,7 @@ Insights and recommendations are provided on the following key areas:
 * **The Loyalty Vacuum** (Addressing the <20% Customer Retention Rate)
 * **Category Dynamics** (Stabilizing Grocery & Accelerating Home/Toys)
 
-https://github.com/user-attachments/assets/f6d184b6-e4a3-4319-bf6d-5166aaab931d
+https://github.com/user-attachments/assets/8ae9285d-b73e-44c4-a679-c016b5cbf571
 
 **PowerQuery M Code regarding data preparation process of various tables can be found [[here]](https://github.com/mehedibhai101/Ad-hoc_Business_Analytics/tree/main/Data%20Cleaning).**
 
