@@ -111,7 +111,6 @@ End-to-End_Retail_Business_Analytics/
 ├── Dashboard/                            # Final visualization and reporting outputs
 │   ├── assets/                           # Visual elements used in reports (logos, icons, etc.)
 │   │   ├── Icons/                        # Collection of icons used in KPI Cards/Buttons
-│   │   ├── Templates/                    # Company logo and background templates of the dashboard
 │   │   └── Theme.json                    # Custom Power BI color palette for dashboard
 │   ├── live_dashboard.md                 # Links to hosted Power BI Service report
 │   └── static_overview.pdf               # Exported PDF version of the final dashboard for quick viewing
