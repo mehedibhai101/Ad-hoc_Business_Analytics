@@ -62,7 +62,7 @@ The audit revealed that while OmniRetail is functional, it is highly fragmented.
 * **Electronics Margin Bleed:** While Electronics drive high AOV, they also suffer from the **highest return rates**. This suggests either a quality control issue or a mismatch between online descriptions and physical products.
 * **Grocery Stability:** The **Grocery** category acts as the "Volume Engine," providing consistent cash flow even when luxury categories like Home & Kitchen fluctuate.
 
-<img width="694" height="463" alt="Image" src="https://github.com/user-attachments/assets/addafffa-a2a5-4415-a923-5f18bddb136a" />
+<img width="1167" height="336" alt="Image" src="https://github.com/user-attachments/assets/d78025e6-29b2-48bb-ae65-0fc741e3ab1f" />
 
 ### 👥 Customer Behavior & Payments
 
@@ -76,7 +76,7 @@ The audit revealed that while OmniRetail is functional, it is highly fragmented.
 
 * **Q1/Q4 Volatility:** Demand in the **North and East** spikes in Q2 but craters in Q1. Inventory levels are currently misaligned with these swings, leading to stockouts in summer and overstock in winter.
 
-<img width="1093" height="403" alt="Image" src="https://github.com/user-attachments/assets/d20caf2d-8944-437f-9477-7c743848ec30" />
+<img width="865" height="334" alt="Image" src="https://github.com/user-attachments/assets/0b3d5b92-1b1f-4b5b-bb25-1950660cb9a7" />
 
 ---
 
